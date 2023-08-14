@@ -1,0 +1,48 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Ely Dorado",
+            "email": ""
+        }
+    ],
+    "platforms":[
+        {
+            "id": 1,
+            "name": "PlayStation 1"
+        },
+        {
+            "id": 2,
+            "name": "PlayStation 2"
+        },
+        {
+            "id": 3,
+            "name": "PlayStation 3"
+        },
+        {
+            "id": 4,
+            "name": "PlayStation 4"
+        },
+        {
+            "id": 5,
+            "name": "PlayStation 5"
+        },
+        {
+            "id": 6,
+            "name": "Quest II"
+        }
+    ],
+    "cards":[
+        {
+            "id":1,
+            "platform": 0,
+            "title": " ",
+            "achiements": 0,
+            "hours": 0,
+            "storyComplete": false,
+            "fullyFinished": false,
+            "postedByUser": 0
+        }
+    ]
+    
+}
