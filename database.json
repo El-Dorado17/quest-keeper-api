@@ -2,8 +2,18 @@
   "users": [
     {
       "id": 1,
-      "name": "Ely Dorado",
+      "name": "Ely",
       "email": "ely@gmail.com"
+    },
+    {
+      "email": "val@gmail.com",
+      "name": "Valentina",
+      "id": 2
+    },
+    {
+      "email": "test@gmail.com",
+      "name": "Test",
+      "id": 3
     }
   ],
   "platforms": [
@@ -29,31 +39,166 @@
     },
     {
       "id": 6,
-      "name": "Quest II"
+      "name": "PlayStation Portable (PSP)"
+    },
+    {
+      "id": 7,
+      "name": "VR"
+    },
+    {
+      "id": 8,
+      "name": "PC"
+    },
+    {
+      "id": 9,
+      "name": "Xbox"
+    },
+    {
+      "id": 10,
+      "name": "Xbox 360"
+    },
+    {
+      "id": 11,
+      "name": "Xbox One"
+    },
+    {
+      "id": 12,
+      "name": "Xbox X/S"
+    },
+    {
+      "id": 14,
+      "name": "Game Boy/Game Boy Color"
+    },
+    {
+      "id": 15,
+      "name": "Game Boy Advance/Game Boy Advance SP"
+    },
+    {
+      "id": 16,
+      "name": "Nintendo DS/DSi/3DS"
+    },
+    {
+      "id": 17,
+      "name": "Nintendo Game-Cube"
+    },
+    {
+      "id": 18,
+      "name": "Nintendo Wii"
+    },
+    {
+      "id": 19,
+      "name": "Nintendo Wii-U"
+    },
+    {
+      "id": 20,
+      "name": "Nintendo Switch"
     }
   ],
   "cards": [
     {
-      "id": 1,
-      "platform": 0,
-      "title": "Dummy card",
-      "achievements": 0,
-      "hours": 0,
+      "platform": 7,
+      "title": "The Elder Scrolls V: Skyrim VR",
+      "currentAchievements": "32",
+      "achievements": "75",
+      "hours": "32",
       "storyComplete": false,
       "fullyFinished": false,
-      "postedByUser": 0,
-      "notes": "Dummy note"
+      "postedByUser": {
+        "id": 1,
+        "name": "Ely"
+      },
+      "notes": "Plenty of items to get, questlines to finish, and houses to build!",
+      "id": 1
     },
     {
-      "cardId": 1,
-      "platform": 4,
-      "title": "Horizon: Zero Dawn",
+      "platform": 8,
+      "title": "Golf With Your Friends",
+      "currentAchievements": "37",
       "achievements": "75",
-      "hours": 0,
+      "hours": "10",
       "storyComplete": true,
       "fullyFinished": false,
-      "notes": "Still need to discover the whole map ",
+      "postedByUser": {
+        "id": 1,
+        "name": "Ely"
+      },
+      "notes": "Gotta get some more done!",
       "id": 2
+    },
+    {
+      "platform": 20,
+      "title": "Super Mario 3D World",
+      "currentAchievements": 0,
+      "achievements": 0,
+      "hours": "65",
+      "storyComplete": true,
+      "fullyFinished": true,
+      "postedByUser": {
+        "id": 1,
+        "name": "Ely"
+      },
+      "notes": "All levels played, finished, & stars collected!",
+      "id": 3
+    },
+    {
+      "platform": 8,
+      "title": "Portal 2",
+      "currentAchievements": "10",
+      "achievements": "51",
+      "hours": "5",
+      "storyComplete": false,
+      "fullyFinished": false,
+      "postedByUser": {
+        "id": 1,
+        "name": "Ely"
+      },
+      "notes": "Another playthrough after this!",
+      "id": 4
+    },
+    {
+      "platform": 20,
+      "title": "Animal Crossing: New Horizons",
+      "currentAchievements": 0,
+      "achievements": 0,
+      "hours": "600",
+      "storyComplete": true,
+      "fullyFinished": true,
+      "postedByUser": {
+        "id": 2,
+        "name": "Valentina"
+      },
+      "notes": "Finished! Come check out my island!",
+      "id": 5
+    },
+    {
+      "platform": 8,
+      "title": "Golf With Your Friends",
+      "currentAchievements": "75",
+      "achievements": "75",
+      "hours": "1007",
+      "storyComplete": true,
+      "fullyFinished": true,
+      "postedByUser": {
+        "id": 2,
+        "name": "Valentina"
+      },
+      "notes": "Got Hole-in-One on ALL levels!",
+      "id": 6
+    },
+    {
+      "platform": 18,
+      "title": "Wii Sports Resort",
+      "currentAchievements": 0,
+      "achievements": 0,
+      "hours": "800",
+      "storyComplete": false,
+      "fullyFinished": false,
+      "postedByUser": {
+        "id": 2,
+        "name": "Valentina"
+      },
+      "notes": "",
+      "id": 7
     }
   ]
 }
