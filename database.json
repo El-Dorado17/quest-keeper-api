@@ -98,16 +98,16 @@
     {
       "platform": 7,
       "title": "The Elder Scrolls V: Skyrim VR",
-      "currentAchievements": "32",
+      "currentAchievements": "35",
       "achievements": "75",
-      "hours": "32",
+      "hours": "36",
       "storyComplete": false,
       "fullyFinished": false,
       "postedByUser": {
         "id": 1,
         "name": "Ely"
       },
-      "notes": "Plenty of items to get, questlines to finish, and houses to build!",
+      "notes": "Working through civil war questline",
       "id": 1
     }
   ]
