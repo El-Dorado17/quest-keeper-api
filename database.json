@@ -107,53 +107,68 @@
         "id": 1,
         "name": "Ely"
       },
-      "notes": "Working through civil war questline",
+      "notes": "Working through College of Winter-hold Questline\n\nCivil War Questline: Complete\nDark Brotherhood Questline: Complete (ach not awarded?)\nThieves Guild Questline: Complete (ach not awarded?)\nCompanion's Questline: Complete",
       "id": 1
-    },
-    {
-      "platform": 4,
-      "title": "TESV: Skyrim - Special Edition",
-      "currentAchievements": 46,
-      "achievements": "76",
-      "hours": 0,
-      "storyComplete": false,
-      "fullyFinished": false,
-      "postedByUser": {
-        "id": 1,
-        "name": "Ely"
-      },
-      "notes": "If you're reading this, don't judge me...",
-      "id": 2
-    },
-    {
-      "platform": 8,
-      "title": "TESV: Skyrim - Special Edition",
-      "currentAchievements": "13",
-      "achievements": "75",
-      "hours": 0,
-      "storyComplete": false,
-      "fullyFinished": false,
-      "postedByUser": {
-        "id": 1,
-        "name": "Ely"
-      },
-      "notes": "Please...",
-      "id": 3
     },
     {
       "platform": 8,
       "title": "Thrillville: Off the Rails",
       "currentAchievements": 0,
       "achievements": 0,
-      "hours": 0,
+      "hours": "11",
       "storyComplete": false,
-      "fullyFinished": false,
+      "fullyFinished": true,
       "postedByUser": {
         "id": 1,
         "name": "Ely"
       },
-      "notes": "1.) Stunts - 90% \n2.) Otherworlds - 60%\n3.) Giant - 80%\n4.) Explorer - 0%\n5.) Holiday - 0%",
+      "notes": "1.) Stunts: 100% \n2.) Other-worlds: 100%\n3.) Giant: 100%\n4.) Explorer: 100%\n5.) Holiday: 100%\nAll trophies collected on 9/29/23\n(All but 2 are gold)",
       "id": 4
+    },
+    {
+      "platform": 8,
+      "title": "Portal 2",
+      "currentAchievements": "16",
+      "achievements": "51",
+      "hours": "7",
+      "storyComplete": false,
+      "fullyFinished": true,
+      "postedByUser": {
+        "id": 1,
+        "name": "Ely"
+      },
+      "notes": "The rest of the achievements can only be obtained in multiplayer",
+      "id": 5
+    },
+    {
+      "platform": 8,
+      "title": "Skyrim Special Edition",
+      "currentAchievements": "18",
+      "achievements": "75",
+      "hours": "39",
+      "storyComplete": false,
+      "fullyFinished": false,
+      "postedByUser": {
+        "id": 2,
+        "name": "Valentina"
+      },
+      "notes": "Mainly playing on mods, I'll worry about achievements later",
+      "id": 6
+    },
+    {
+      "platform": 15,
+      "title": "Dragon Ball Z - Legacy of Goku II",
+      "currentAchievements": 0,
+      "achievements": 0,
+      "hours": 0,
+      "storyComplete": false,
+      "fullyFinished": false,
+      "postedByUser": {
+        "id": 2,
+        "name": "Valentina"
+      },
+      "notes": "Grinding to level up my characters so I can defeat Cell... R.I.P.",
+      "id": 7
     }
   ]
 }
