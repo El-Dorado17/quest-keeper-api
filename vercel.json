@@ -5,7 +5,7 @@
         "src": "server.js",
         "use": "@vercel/node",
         "config": {
-          "includeFiles": ["database.json"]
+          "includeFiles": ["database.json", "package.json", "package-lock.json", "server.js"]
         }
       }
     ],
